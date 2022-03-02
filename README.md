@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dilshad0404
+- 👋 Hi, I’m Dilshad khan
 - 👀 I’m interested in Upgrading myself
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on web dev
